@@ -220,15 +220,15 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-awesome-gatsby.json",
-        "path": "/docs/awesome-gatsby/"
+        "jsonName": "docs-api-specification.json",
+        "path": "/docs/api-specification/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-api-specification.json",
-        "path": "/docs/api-specification/"
+        "jsonName": "docs-awesome-gatsby.json",
+        "path": "/docs/awesome-gatsby/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
@@ -297,15 +297,15 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-dropping-images-into-static-folders.json",
-        "path": "/docs/dropping-images-into-static-folders/"
+        "jsonName": "docs-design-principles.json",
+        "path": "/docs/design-principles/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-design-principles.json",
-        "path": "/docs/design-principles/"
+        "jsonName": "docs-dropping-images-into-static-folders.json",
+        "path": "/docs/dropping-images-into-static-folders/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
@@ -325,15 +325,15 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-gatsby-on-windows.json",
-        "path": "/docs/gatsby-on-windows/"
+        "jsonName": "docs-gatsby-lifecycle-apis.json",
+        "path": "/docs/gatsby-lifecycle-apis/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-gatsby-lifecycle-apis.json",
-        "path": "/docs/gatsby-lifecycle-apis/"
+        "jsonName": "docs-gatsby-on-windows.json",
+        "path": "/docs/gatsby-on-windows/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
@@ -402,15 +402,15 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-thinking-in-gatsby.json",
-        "path": "/docs/thinking-in-gatsby/"
+        "jsonName": "docs-themes.json",
+        "path": "/docs/themes/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-themes.json",
-        "path": "/docs/themes/"
+        "jsonName": "docs-thinking-in-gatsby.json",
+        "path": "/docs/thinking-in-gatsby/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
@@ -738,15 +738,15 @@
         "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-sitemap.json",
-        "path": "/packages/gatsby-plugin-sitemap/"
+        "jsonName": "packages-gatsby-plugin-sharp.json",
+        "path": "/packages/gatsby-plugin-sharp/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-sharp.json",
-        "path": "/packages/gatsby-plugin-sharp/"
+        "jsonName": "packages-gatsby-plugin-sitemap.json",
+        "path": "/packages/gatsby-plugin-sitemap/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-packages-js",
@@ -864,15 +864,15 @@
         "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-smartypants.json",
-        "path": "/packages/gatsby-remark-smartypants/"
+        "jsonName": "packages-gatsby-remark-responsive-iframe.json",
+        "path": "/packages/gatsby-remark-responsive-iframe/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-responsive-iframe.json",
-        "path": "/packages/gatsby-remark-responsive-iframe/"
+        "jsonName": "packages-gatsby-remark-smartypants.json",
+        "path": "/packages/gatsby-remark-smartypants/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-packages-js",
@@ -1025,15 +1025,15 @@
         "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-transformer-sharp.json",
-        "path": "/packages/gatsby-transformer-sharp/"
+        "jsonName": "packages-gatsby-transformer-screenshot.json",
+        "path": "/packages/gatsby-transformer-screenshot/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-transformer-screenshot.json",
-        "path": "/packages/gatsby-transformer-screenshot/"
+        "jsonName": "packages-gatsby-transformer-sharp.json",
+        "path": "/packages/gatsby-transformer-sharp/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-packages-js",
