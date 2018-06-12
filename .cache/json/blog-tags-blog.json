@@ -1,0 +1,1 @@
+{"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/blog/2017-05-31-introduction-to-gatsby/"},"frontmatter":{"title":"Introduction to Gatsby"}}},{"node":{"fields":{"slug":"/blog/2017-07-19-creating-a-blog-with-gatsby/"},"frontmatter":{"title":"Creating a Blog with Gatsby"}}}]}},"pathContext":{"tag":"blog"}}
