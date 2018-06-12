@@ -1,26 +1,29 @@
 var plugins = [{
-      plugin: require('/home/linuxnikola/gatsby/www/node_modules/gatsby-plugin-typography/gatsby-browser'),
+      plugin: require('/home/linuxnikola/Desktop/gatsby/www/node_modules/gatsby-plugin-typography/gatsby-browser'),
       options: {"plugins":[],"pathToConfigModule":"src/utils/typography"},
     },{
-      plugin: require('/home/linuxnikola/gatsby/www/node_modules/gatsby-remark-autolink-headers/gatsby-browser'),
+      plugin: require('/home/linuxnikola/Desktop/gatsby/www/node_modules/gatsby-plugin-canonical-urls/gatsby-browser'),
+      options: {"plugins":[],"siteUrl":"https://www.gatsbyjs.org"},
+    },{
+      plugin: require('/home/linuxnikola/Desktop/gatsby/www/node_modules/gatsby-remark-autolink-headers/gatsby-browser'),
       options: {"plugins":[]},
     },{
-      plugin: require('/home/linuxnikola/gatsby/www/node_modules/gatsby-plugin-nprogress/gatsby-browser'),
+      plugin: require('/home/linuxnikola/Desktop/gatsby/www/node_modules/gatsby-plugin-nprogress/gatsby-browser'),
       options: {"plugins":[],"color":"#9D7CBF","showSpinner":false},
     },{
-      plugin: require('/home/linuxnikola/gatsby/www/node_modules/gatsby-plugin-glamor/gatsby-browser'),
+      plugin: require('/home/linuxnikola/Desktop/gatsby/www/node_modules/gatsby-plugin-glamor/gatsby-browser'),
       options: {"plugins":[]},
     },{
-      plugin: require('/home/linuxnikola/gatsby/www/node_modules/gatsby-plugin-catch-links/gatsby-browser'),
+      plugin: require('/home/linuxnikola/Desktop/gatsby/www/node_modules/gatsby-plugin-catch-links/gatsby-browser'),
       options: {"plugins":[]},
     },{
-      plugin: require('/home/linuxnikola/gatsby/www/node_modules/gatsby-plugin-offline/gatsby-browser'),
+      plugin: require('/home/linuxnikola/Desktop/gatsby/www/node_modules/gatsby-plugin-offline/gatsby-browser'),
       options: {"plugins":[],"navigateFallback":null,"navigateFallbackWhitelist":[]},
     },{
-      plugin: require('/home/linuxnikola/gatsby/www/node_modules/gatsby-plugin-twitter/gatsby-browser'),
+      plugin: require('/home/linuxnikola/Desktop/gatsby/www/node_modules/gatsby-plugin-twitter/gatsby-browser'),
       options: {"plugins":[]},
     },{
-      plugin: require('/home/linuxnikola/gatsby/www/node_modules/gatsby-plugin-google-analytics/gatsby-browser'),
+      plugin: require('/home/linuxnikola/Desktop/gatsby/www/node_modules/gatsby-plugin-google-analytics/gatsby-browser'),
       options: {"plugins":[],"trackingId":"UA-93349937-1"},
     }]
 // During bootstrap, we write requires at top of this file which looks

@@ -7,706 +7,6 @@
         "path": "/offline-plugin-app-shell-fallback/"
     },
     {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-05-31-introduction-to-gatsby.json",
-        "path": "/blog/2017-05-31-introduction-to-gatsby/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-05-31-open-sourcing-gatsby-workshops.json",
-        "path": "/blog/2018-05-31-open-sourcing-gatsby-workshops/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-05-24-launching-new-gatsby-company.json",
-        "path": "/blog/2018-05-24-launching-new-gatsby-company/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-05-11-six-reasons-i-chose-gatsby.json",
-        "path": "/blog/2018-05-11-six-reasons-i-chose-gatsby/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-04-27-building-eviction-free-nyc-with-gatsbyjs-and-contentful.json",
-        "path": "/blog/2018-04-27-building-eviction-free-nyc-with-gatsbyjs-and-contentful/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-04-25-how-gatsby-changes-teams-website-development-workflow.json",
-        "path": "/blog/2018-04-25-how-gatsby-changes-teams-website-development-workflow/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-04-11-trying-out-gatsby-at-work-and-co.json",
-        "path": "/blog/2018-04-11-trying-out-gatsby-at-work-and-co/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-04-10-how-to-handle-comments-in-gatsby-blogs.json",
-        "path": "/blog/2018-04-10-how-to-handle-comments-in-gatsby-blogs/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-04-06-introducing-gatsby-rfc-process.json",
-        "path": "/blog/2018-04-06-introducing-gatsby-rfc-process/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-04-05-gatsby-video-tutorials.json",
-        "path": "/blog/2018-04-05-gatsby-video-tutorials/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-04-04-gatsby-contentful-starter-tutorial.json",
-        "path": "/blog/2018-04-04-gatsby-contentful-starter-tutorial/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-03-29-migration-from-wordpress-to-gatsby.json",
-        "path": "/blog/2018-03-29-migration-from-wordpress-to-gatsby/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-03-07-why-we-created-the-plugin-library.json",
-        "path": "/blog/2018-03-07-why-we-created-the-plugin-library/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-3-03-case-study-mike-johnston.json",
-        "path": "/blog/2018-3-03-case-study-mike-johnston/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-02-28-documentation-project.json",
-        "path": "/blog/2018-02-28-documentation-project/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-2-27-why-i-upgraded-my-website-to-gatsbyjs-from-jekyll.json",
-        "path": "/blog/2018-2-27-why-i-upgraded-my-website-to-gatsbyjs-from-jekyll/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-02-16-bright-future-for-the-web.json",
-        "path": "/blog/2018-02-16-bright-future-for-the-web/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-2-16-how-to-build-a-website-with-react.json",
-        "path": "/blog/2018-2-16-how-to-build-a-website-with-react/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-02-09-announcing-gatsby-manor-themes-for-gatsbyjs.json",
-        "path": "/blog/2018-02-09-announcing-gatsby-manor-themes-for-gatsbyjs/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-2-7-jam-out-your-blog.json",
-        "path": "/blog/2018-2-7-jam-out-your-blog/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-2-6-choosing-a-back-end.json",
-        "path": "/blog/2018-2-6-choosing-a-back-end/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-2-3-sites-with-headless-cms.json",
-        "path": "/blog/2018-2-3-sites-with-headless-cms/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-1-25-building-a-site-with-react-and-contentful.json",
-        "path": "/blog/2018-1-25-building-a-site-with-react-and-contentful/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-1-24-creative-software-destruction-new-presentation-layer.json",
-        "path": "/blog/2018-1-24-creative-software-destruction-new-presentation-layer/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-01-22-getting-started-gatsby-and-wordpress.json",
-        "path": "/blog/2018-01-22-getting-started-gatsby-and-wordpress/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-01-18-how-boston-gov-used-gatsby-to-be-selected-as-an-amazon-hq-2-candidate-city.json",
-        "path": "/blog/2018-01-18-how-boston-gov-used-gatsby-to-be-selected-as-an-amazon-hq2-candidate-city/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2018-1-18-strapi-and-gatsby.json",
-        "path": "/blog/2018-1-18-strapi-and-gatsby/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-12-20-introducing-the-gatsby-ux-research-program.json",
-        "path": "/blog/2017-12-20-introducing-the-gatsby-ux-research-program/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-12-07-taking-gatsby-for-a-spin.json",
-        "path": "/blog/2017-12-07-taking-gatsby-for-a-spin/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-12-06-gatsby-plus-contentful-plus-netlify.json",
-        "path": "/blog/2017-12-06-gatsby-plus-contentful-plus-netlify/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-11-09-why-i-created-my-blog-with-gatsby-and-contentful.json",
-        "path": "/blog/2017-11-09-why-i-created-my-blog-with-gatsby-and-contentful/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-11-08-migrate-from-jekyll-to-gatsby.json",
-        "path": "/blog/2017-11-08-migrate-from-jekyll-to-gatsby/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-11-06-migrate-hugo-gatsby.json",
-        "path": "/blog/2017-11-06-migrate-hugo-gatsby/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-10-29-my-search-for-the-perfect-universal-java-script-framework.json",
-        "path": "/blog/2017-10-29-my-search-for-the-perfect-universal-javaScript-framework/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-10-20-from-wordpress-to-developing-in-react-starting-to-see-it.json",
-        "path": "/blog/2017-10-20-from-wordpress-to-developing-in-react-starting-to-see-it/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-10-17-building-i-18-n-with-gatsby.json",
-        "path": "/blog/2017-10-17-building-i18n-with-gatsby/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-10-16-making-website-building-fun.json",
-        "path": "/blog/2017-10-16-making-website-building-fun/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-10-05-portfolio-site-gatsby-wordpress.json",
-        "path": "/blog/2017-10-05-portfolio-site-gatsby-wordpress/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-10-03-smartive-goes-gatsby.json",
-        "path": "/blog/2017-10-03-smartive-goes-gatsby/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-10-01-migrating-my-blog-from-hexo-to-gatsby.json",
-        "path": "/blog/2017-10-01-migrating-my-blog-from-hexo-to-gatsby/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-09-26-embracing-graphql.json",
-        "path": "/blog/2017-09-26-embracing-graphql/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-09-21-community-roundup-1.json",
-        "path": "/blog/2017-09-21-community-roundup-1/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-09-18-gatsby-modern-static-generation.json",
-        "path": "/blog/2017-09-18-gatsby-modern-static-generation/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-09-13-why-is-gatsby-so-fast.json",
-        "path": "/blog/2017-09-13-why-is-gatsby-so-fast/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-07-19-creating-a-blog-with-gatsby.json",
-        "path": "/blog/2017-07-19-creating-a-blog-with-gatsby/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-gatsby-v-1.json",
-        "path": "/blog/gatsby-v1/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-gatsby-first-beta-release.json",
-        "path": "/blog/gatsby-first-beta-release/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-gatsbygram-case-study.json",
-        "path": "/blog/gatsbygram-case-study/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-gatsby.json",
-        "path": "/blog/tags/gatsby/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-css.json",
-        "path": "/blog/tags/css/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-graphql.json",
-        "path": "/blog/tags/graphql/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-blog.json",
-        "path": "/blog/tags/blog/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-react.json",
-        "path": "/blog/tags/react/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-plugins.json",
-        "path": "/blog/tags/plugins/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-i-18-n.json",
-        "path": "/blog/tags/i-18-n/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-netlify.json",
-        "path": "/blog/tags/netlify/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-case-studies.json",
-        "path": "/blog/tags/case-studies/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-contentful.json",
-        "path": "/blog/tags/contentful/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-collaboration.json",
-        "path": "/blog/tags/collaboration/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-getting-started.json",
-        "path": "/blog/tags/getting-started/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-documentation.json",
-        "path": "/blog/tags/documentation/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-wordpress.json",
-        "path": "/blog/tags/wordpress/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-security.json",
-        "path": "/blog/tags/security/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-ux.json",
-        "path": "/blog/tags/ux/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-community.json",
-        "path": "/blog/tags/community/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-jekyll.json",
-        "path": "/blog/tags/jekyll/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-gatsby-apis.json",
-        "path": "/blog/tags/gatsby-apis/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-markdown.json",
-        "path": "/blog/tags/markdown/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-ja-mstack.json",
-        "path": "/blog/tags/ja-mstack/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-architecture.json",
-        "path": "/blog/tags/architecture/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-themes.json",
-        "path": "/blog/tags/themes/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-prose-io.json",
-        "path": "/blog/tags/prose-io/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-ci.json",
-        "path": "/blog/tags/ci/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-jamstack.json",
-        "path": "/blog/tags/jamstack/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-headless-cms.json",
-        "path": "/blog/tags/headless-cms/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-netlify-cms.json",
-        "path": "/blog/tags/netlify-cms/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-graphcms.json",
-        "path": "/blog/tags/graphcms/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-cloudcms.json",
-        "path": "/blog/tags/cloudcms/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-serverless.json",
-        "path": "/blog/tags/serverless/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-cdn.json",
-        "path": "/blog/tags/cdn/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-component-library.json",
-        "path": "/blog/tags/component-library/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-iteration-speed.json",
-        "path": "/blog/tags/iteration-speed/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-strapi.json",
-        "path": "/blog/tags/strapi/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-performance.json",
-        "path": "/blog/tags/performance/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-pwa.json",
-        "path": "/blog/tags/pwa/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-algolia.json",
-        "path": "/blog/tags/algolia/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-hosting.json",
-        "path": "/blog/tags/hosting/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-static.json",
-        "path": "/blog/tags/static/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-hugo.json",
-        "path": "/blog/tags/hugo/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-ssr.json",
-        "path": "/blog/tags/ssr/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-right-building-blocks.json",
-        "path": "/blog/tags/right-building-blocks/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-gatsby-image.json",
-        "path": "/blog/tags/gatsby-image/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-portfolio-site.json",
-        "path": "/blog/tags/portfolio-site/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-company-site.json",
-        "path": "/blog/tags/company-site/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-hexo.json",
-        "path": "/blog/tags/hexo/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-v-1.json",
-        "path": "/blog/tags/v-1/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-tutorials.json",
-        "path": "/blog/tags/tutorials/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-ghost.json",
-        "path": "/blog/tags/ghost/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-caching.json",
-        "path": "/blog/tags/caching/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags-mobile.json",
-        "path": "/blog/tags/mobile/"
-    },
-    {
         "componentChunkName": "component---src-templates-template-contributor-page-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -847,116 +147,11 @@
         "path": "/contributors/robin-vasan/"
     },
     {
-        "componentChunkName": "component---src-templates-template-contributor-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "contributors-ross-whitehouse.json",
-        "path": "/contributors/ross-whitehouse/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-contributor-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "contributors-vlad-pasculescu.json",
-        "path": "/contributors/vlad-pasculescu/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-contributor-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "contributors-brandon-konkle.json",
-        "path": "/contributors/brandon-konkle/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-contributor-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "contributors-steven-natera.json",
-        "path": "/contributors/steven-natera/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-contributor-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "contributors-ryan-wiemer.json",
-        "path": "/contributors/ryan-wiemer/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-contributor-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "contributors-jia-hao-goh.json",
-        "path": "/contributors/jia-hao-goh/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-contributor-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "contributors-vojtech-ruzicka.json",
-        "path": "/contributors/vojtech-ruzicka/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-contributor-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "contributors-robert-svensson.json",
-        "path": "/contributors/robert-svensson/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-contributor-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "contributors-carolyn-stransky.json",
-        "path": "/contributors/carolyn-stransky/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-contributor-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "contributors-sarah-mogin.json",
-        "path": "/contributors/sarah-mogin/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-contributor-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "contributors-dan-kass.json",
-        "path": "/contributors/dan-kass/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-contributor-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "contributors-gatsby-central.json",
-        "path": "/contributors/gatsby-central/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-contributor-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "contributors-ray-gesualdo.json",
-        "path": "/contributors/ray-gesualdo/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-contributor-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "contributors-michelle-barker.json",
-        "path": "/contributors/michelle-barker/"
-    },
-    {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "readme.json",
         "path": "/README/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-markdown-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tutorial.json",
-        "path": "/tutorial/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
@@ -971,6 +166,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "docs-add-404-page.json",
         "path": "/docs/add-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-markdown-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "community.json",
+        "path": "/community/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
@@ -997,15 +199,15 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-adding-search.json",
-        "path": "/docs/adding-search/"
+        "jsonName": "docs-adding-markdown-pages.json",
+        "path": "/docs/adding-markdown-pages/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-adding-markdown-pages.json",
-        "path": "/docs/adding-markdown-pages/"
+        "jsonName": "docs-adding-tags-and-categories-to-blog-posts.json",
+        "path": "/docs/adding-tags-and-categories-to-blog-posts/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
@@ -1018,15 +220,15 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-api-specification.json",
-        "path": "/docs/api-specification/"
+        "jsonName": "docs-awesome-gatsby.json",
+        "path": "/docs/awesome-gatsby/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-awesome-gatsby.json",
-        "path": "/docs/awesome-gatsby/"
+        "jsonName": "docs-api-specification.json",
+        "path": "/docs/api-specification/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
@@ -1039,15 +241,15 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-building-with-components.json",
-        "path": "/docs/building-with-components/"
+        "jsonName": "docs-building-apps-with-gatsby.json",
+        "path": "/docs/building-apps-with-gatsby/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-building-apps-with-gatsby.json",
-        "path": "/docs/building-apps-with-gatsby/"
+        "jsonName": "docs-building-with-components.json",
+        "path": "/docs/building-with-components/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
@@ -1060,13 +262,6 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-community.json",
-        "path": "/docs/community/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-markdown-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "docs-create-source-plugin.json",
         "path": "/docs/create-source-plugin/"
     },
@@ -1074,15 +269,15 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-creating-dynamically-rendered-navigation.json",
-        "path": "/docs/creating-dynamically-rendered-navigation/"
+        "jsonName": "docs-creating-and-modifying-pages.json",
+        "path": "/docs/creating-and-modifying-pages/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-creating-and-modifying-pages.json",
-        "path": "/docs/creating-and-modifying-pages/"
+        "jsonName": "docs-creating-dynamically-rendered-navigation.json",
+        "path": "/docs/creating-dynamically-rendered-navigation/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
@@ -1102,8 +297,8 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-debugging-replace-renderer-api.json",
-        "path": "/docs/debugging-replace-renderer-api/"
+        "jsonName": "docs-dropping-images-into-static-folders.json",
+        "path": "/docs/dropping-images-into-static-folders/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
@@ -1116,22 +311,8 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-dropping-images-into-static-folders.json",
-        "path": "/docs/dropping-images-into-static-folders/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-markdown-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "docs-environment-variables.json",
         "path": "/docs/environment-variables/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-markdown-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-gatsby-lifecycle-apis.json",
-        "path": "/docs/gatsby-lifecycle-apis/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
@@ -1144,15 +325,15 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-gatsby-on-linux.json",
-        "path": "/docs/gatsby-on-linux/"
+        "jsonName": "docs-gatsby-on-windows.json",
+        "path": "/docs/gatsby-on-windows/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-gatsby-on-windows.json",
-        "path": "/docs/gatsby-on-windows/"
+        "jsonName": "docs-gatsby-lifecycle-apis.json",
+        "path": "/docs/gatsby-lifecycle-apis/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
@@ -1165,15 +346,15 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-how-gatsby-works-with-github-pages.json",
-        "path": "/docs/how-gatsby-works-with-github-pages/"
+        "jsonName": "docs-graphql-reference.json",
+        "path": "/docs/graphql-reference/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-how-to-file-an-issue.json",
-        "path": "/docs/how-to-file-an-issue/"
+        "jsonName": "docs-how-gatsby-works-with-github-pages.json",
+        "path": "/docs/how-gatsby-works-with-github-pages/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
@@ -1186,8 +367,8 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-local-https.json",
-        "path": "/docs/local-https/"
+        "jsonName": "docs-node-interface.json",
+        "path": "/docs/node-interface/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
@@ -1200,27 +381,6 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-plugin-authoring.json",
-        "path": "/docs/plugin-authoring/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-markdown-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-plugins.json",
-        "path": "/docs/plugins/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-markdown-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-node-interface.json",
-        "path": "/docs/node-interface/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-markdown-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "docs-prpl-pattern.json",
         "path": "/docs/prpl-pattern/"
     },
@@ -1228,8 +388,8 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-seo.json",
-        "path": "/docs/seo/"
+        "jsonName": "docs-querying-with-graphql.json",
+        "path": "/docs/querying-with-graphql/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
@@ -1242,13 +402,6 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-themes.json",
-        "path": "/docs/themes/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-markdown-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "docs-thinking-in-gatsby.json",
         "path": "/docs/thinking-in-gatsby/"
     },
@@ -1256,50 +409,8 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-working-with-images.json",
-        "path": "/docs/working-with-images/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-markdown-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-wordpress-source-plugin-tutorial.json",
-        "path": "/docs/wordpress-source-plugin-tutorial/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-markdown-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tutorial-part-five.json",
-        "path": "/tutorial/part-five/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-markdown-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tutorial-part-six.json",
-        "path": "/tutorial/part-six/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-markdown-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tutorial-part-three.json",
-        "path": "/tutorial/part-three/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-markdown-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tutorial-part-zero.json",
-        "path": "/tutorial/part-zero/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-markdown-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-adding-tags-and-categories-to-blog-posts.json",
-        "path": "/docs/adding-tags-and-categories-to-blog-posts/"
+        "jsonName": "docs-themes.json",
+        "path": "/docs/themes/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
@@ -1312,15 +423,15 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-gatsby-style-guide.json",
-        "path": "/docs/gatsby-style-guide/"
+        "jsonName": "docs-gatsby-starters.json",
+        "path": "/docs/gatsby-starters/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-graphql-reference.json",
-        "path": "/docs/graphql-reference/"
+        "jsonName": "docs-gatsby-style-guide.json",
+        "path": "/docs/gatsby-style-guide/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
@@ -1340,29 +451,15 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-image-tutorial.json",
-        "path": "/docs/image-tutorial/"
+        "jsonName": "docs-plugins.json",
+        "path": "/docs/plugins/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-querying-with-graphql.json",
-        "path": "/docs/querying-with-graphql/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-markdown-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-source-plugin-tutorial.json",
-        "path": "/docs/source-plugin-tutorial/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-markdown-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tutorial-part-four.json",
-        "path": "/tutorial/part-four/"
+        "jsonName": "tutorial-part-three.json",
+        "path": "/tutorial/part-three/"
     },
     {
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
@@ -1375,13 +472,6 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tutorial-part-seven.json",
-        "path": "/tutorial/part-seven/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-markdown-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tutorial-part-two.json",
         "path": "/tutorial/part-two/"
     },
@@ -1389,2416 +479,624 @@
         "componentChunkName": "component---src-templates-template-docs-markdown-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-ecommerce-tutorial.json",
-        "path": "/docs/ecommerce-tutorial/"
+        "jsonName": "tutorial-part-four.json",
+        "path": "/tutorial/part-four/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-markdown-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "docs-gatsby-starters.json",
-        "path": "/docs/gatsby-starters/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-1-config-extract-plugin.json",
-        "path": "/packages/gatsby-1-config-extract-plugin/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-dev-cli.json",
-        "path": "/packages/gatsby-dev-cli/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-1-config-css-modules.json",
         "path": "/packages/gatsby-1-config-css-modules/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-1-config-extract-plugin.json",
+        "path": "/packages/gatsby-1-config-extract-plugin/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-cli.json",
         "path": "/packages/gatsby-cli/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-module-loader.json",
-        "path": "/packages/gatsby-module-loader/"
+        "jsonName": "packages-gatsby-dev-cli.json",
+        "path": "/packages/gatsby-dev-cli/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-link.json",
         "path": "/packages/gatsby-link/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-canonical-urls.json",
-        "path": "/packages/gatsby-plugin-canonical-urls/"
+        "jsonName": "packages-gatsby-module-loader.json",
+        "path": "/packages/gatsby-module-loader/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-plugin-aphrodite.json",
         "path": "/packages/gatsby-plugin-aphrodite/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-coffeescript.json",
-        "path": "/packages/gatsby-plugin-coffeescript/"
+        "jsonName": "packages-gatsby-plugin-canonical-urls.json",
+        "path": "/packages/gatsby-plugin-canonical-urls/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-create-client-paths.json",
-        "path": "/packages/gatsby-plugin-create-client-paths/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-cxs.json",
-        "path": "/packages/gatsby-plugin-cxs/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-plugin-catch-links.json",
         "path": "/packages/gatsby-plugin-catch-links/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-fullstory.json",
-        "path": "/packages/gatsby-plugin-fullstory/"
+        "jsonName": "packages-gatsby-plugin-coffeescript.json",
+        "path": "/packages/gatsby-plugin-coffeescript/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-feed.json",
-        "path": "/packages/gatsby-plugin-feed/"
+        "jsonName": "packages-gatsby-plugin-create-client-paths.json",
+        "path": "/packages/gatsby-plugin-create-client-paths/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-glamorous.json",
-        "path": "/packages/gatsby-plugin-glamorous/"
+        "jsonName": "packages-gatsby-plugin-cxs.json",
+        "path": "/packages/gatsby-plugin-cxs/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-google-analytics.json",
-        "path": "/packages/gatsby-plugin-google-analytics/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-google-tagmanager.json",
-        "path": "/packages/gatsby-plugin-google-tagmanager/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-jss.json",
-        "path": "/packages/gatsby-plugin-jss/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-less.json",
-        "path": "/packages/gatsby-plugin-less/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-lodash.json",
-        "path": "/packages/gatsby-plugin-lodash/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-manifest.json",
-        "path": "/packages/gatsby-plugin-manifest/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-netlify.json",
-        "path": "/packages/gatsby-plugin-netlify/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-netlify-cms.json",
-        "path": "/packages/gatsby-plugin-netlify-cms/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-no-sourcemaps.json",
-        "path": "/packages/gatsby-plugin-no-sourcemaps/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-offline.json",
-        "path": "/packages/gatsby-plugin-offline/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-nprogress.json",
-        "path": "/packages/gatsby-plugin-nprogress/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-react-css-modules.json",
-        "path": "/packages/gatsby-plugin-react-css-modules/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-react-helmet.json",
-        "path": "/packages/gatsby-plugin-react-helmet/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-glamor.json",
-        "path": "/packages/gatsby-plugin-glamor/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-plugin-emotion.json",
         "path": "/packages/gatsby-plugin-emotion/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-postcss-sass.json",
-        "path": "/packages/gatsby-plugin-postcss-sass/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-plugin-facebook-analytics.json",
         "path": "/packages/gatsby-plugin-facebook-analytics/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-sharp.json",
-        "path": "/packages/gatsby-plugin-sharp/"
+        "jsonName": "packages-gatsby-plugin-feed.json",
+        "path": "/packages/gatsby-plugin-feed/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-sitemap.json",
-        "path": "/packages/gatsby-plugin-sitemap/"
+        "jsonName": "packages-gatsby-plugin-fullstory.json",
+        "path": "/packages/gatsby-plugin-fullstory/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-glamor.json",
+        "path": "/packages/gatsby-plugin-glamor/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-glamorous.json",
+        "path": "/packages/gatsby-plugin-glamorous/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-google-analytics.json",
+        "path": "/packages/gatsby-plugin-google-analytics/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-google-tagmanager.json",
+        "path": "/packages/gatsby-plugin-google-tagmanager/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-jss.json",
+        "path": "/packages/gatsby-plugin-jss/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-less.json",
+        "path": "/packages/gatsby-plugin-less/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-lodash.json",
+        "path": "/packages/gatsby-plugin-lodash/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-manifest.json",
+        "path": "/packages/gatsby-plugin-manifest/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-netlify.json",
+        "path": "/packages/gatsby-plugin-netlify/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-netlify-cms.json",
+        "path": "/packages/gatsby-plugin-netlify-cms/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-no-sourcemaps.json",
+        "path": "/packages/gatsby-plugin-no-sourcemaps/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-nprogress.json",
+        "path": "/packages/gatsby-plugin-nprogress/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-offline.json",
+        "path": "/packages/gatsby-plugin-offline/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-postcss-sass.json",
+        "path": "/packages/gatsby-plugin-postcss-sass/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-plugin-preact.json",
         "path": "/packages/gatsby-plugin-preact/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-styled-components.json",
-        "path": "/packages/gatsby-plugin-styled-components/"
+        "jsonName": "packages-gatsby-plugin-react-css-modules.json",
+        "path": "/packages/gatsby-plugin-react-css-modules/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-styled-jsx.json",
-        "path": "/packages/gatsby-plugin-styled-jsx/"
+        "jsonName": "packages-gatsby-plugin-react-helmet.json",
+        "path": "/packages/gatsby-plugin-react-helmet/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-styletron.json",
-        "path": "/packages/gatsby-plugin-styletron/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-stylus.json",
-        "path": "/packages/gatsby-plugin-stylus/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-twitter.json",
-        "path": "/packages/gatsby-plugin-twitter/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-typescript.json",
-        "path": "/packages/gatsby-plugin-typescript/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-typography.json",
-        "path": "/packages/gatsby-plugin-typography/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-autolink-headers.json",
-        "path": "/packages/gatsby-remark-autolink-headers/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-react-router-scroll.json",
-        "path": "/packages/gatsby-react-router-scroll/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-code-repls.json",
-        "path": "/packages/gatsby-remark-code-repls/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-copy-linked-files.json",
-        "path": "/packages/gatsby-remark-copy-linked-files/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-embed-snippet.json",
-        "path": "/packages/gatsby-remark-embed-snippet/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-custom-blocks.json",
-        "path": "/packages/gatsby-remark-custom-blocks/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-images.json",
-        "path": "/packages/gatsby-remark-images/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-katex.json",
-        "path": "/packages/gatsby-remark-katex/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-prismjs.json",
-        "path": "/packages/gatsby-remark-prismjs/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-responsive-iframe.json",
-        "path": "/packages/gatsby-remark-responsive-iframe/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-smartypants.json",
-        "path": "/packages/gatsby-remark-smartypants/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-contentful.json",
-        "path": "/packages/gatsby-source-contentful/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-drupal.json",
-        "path": "/packages/gatsby-source-drupal/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-faker.json",
-        "path": "/packages/gatsby-source-faker/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-hacker-news.json",
-        "path": "/packages/gatsby-source-hacker-news/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-filesystem.json",
-        "path": "/packages/gatsby-source-filesystem/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-lever.json",
-        "path": "/packages/gatsby-source-lever/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-medium.json",
-        "path": "/packages/gatsby-source-medium/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-plugin-react-next.json",
         "path": "/packages/gatsby-plugin-react-next/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-plugin-remove-trailing-slashes.json",
         "path": "/packages/gatsby-plugin-remove-trailing-slashes/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-mongodb.json",
-        "path": "/packages/gatsby-source-mongodb/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-plugin-sass.json",
         "path": "/packages/gatsby-plugin-sass/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-sitemap.json",
+        "path": "/packages/gatsby-plugin-sitemap/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-sharp.json",
+        "path": "/packages/gatsby-plugin-sharp/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-styled-components.json",
+        "path": "/packages/gatsby-plugin-styled-components/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-styled-jsx.json",
+        "path": "/packages/gatsby-plugin-styled-jsx/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-styletron.json",
+        "path": "/packages/gatsby-plugin-styletron/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-stylus.json",
+        "path": "/packages/gatsby-plugin-stylus/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-twitter.json",
+        "path": "/packages/gatsby-plugin-twitter/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-typescript.json",
+        "path": "/packages/gatsby-plugin-typescript/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-plugin-typography.json",
+        "path": "/packages/gatsby-plugin-typography/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-react-router-scroll.json",
+        "path": "/packages/gatsby-react-router-scroll/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-remark-autolink-headers.json",
+        "path": "/packages/gatsby-remark-autolink-headers/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-remark-code-repls.json",
+        "path": "/packages/gatsby-remark-code-repls/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-remark-copy-linked-files.json",
+        "path": "/packages/gatsby-remark-copy-linked-files/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-remark-custom-blocks.json",
+        "path": "/packages/gatsby-remark-custom-blocks/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-remark-embed-snippet.json",
+        "path": "/packages/gatsby-remark-embed-snippet/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-remark-images.json",
+        "path": "/packages/gatsby-remark-images/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-remark-katex.json",
+        "path": "/packages/gatsby-remark-katex/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-remark-prismjs.json",
+        "path": "/packages/gatsby-remark-prismjs/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-remark-smartypants.json",
+        "path": "/packages/gatsby-remark-smartypants/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-remark-responsive-iframe.json",
+        "path": "/packages/gatsby-remark-responsive-iframe/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-source-contentful.json",
+        "path": "/packages/gatsby-source-contentful/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-source-drupal.json",
+        "path": "/packages/gatsby-source-drupal/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-source-faker.json",
+        "path": "/packages/gatsby-source-faker/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-source-filesystem.json",
+        "path": "/packages/gatsby-source-filesystem/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-source-hacker-news.json",
+        "path": "/packages/gatsby-source-hacker-news/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-source-lever.json",
+        "path": "/packages/gatsby-source-lever/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-source-medium.json",
+        "path": "/packages/gatsby-source-medium/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-source-mongodb.json",
+        "path": "/packages/gatsby-source-mongodb/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-source-npm-package-search.json",
         "path": "/packages/gatsby-source-npm-package-search/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-transformer-csv.json",
-        "path": "/packages/gatsby-transformer-csv/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-source-wordpress-com.json",
         "path": "/packages/gatsby-source-wordpress-com/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-transformer-csv.json",
+        "path": "/packages/gatsby-transformer-csv/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-transformer-documentationjs.json",
         "path": "/packages/gatsby-transformer-documentationjs/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-transformer-docx.json",
         "path": "/packages/gatsby-transformer-docx/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-transformer-excel.json",
         "path": "/packages/gatsby-transformer-excel/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-transformer-hjson.json",
         "path": "/packages/gatsby-transformer-hjson/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-transformer-javascript-frontmatter.json",
         "path": "/packages/gatsby-transformer-javascript-frontmatter/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-transformer-javascript-static-exports.json",
         "path": "/packages/gatsby-transformer-javascript-static-exports/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-transformer-json.json",
         "path": "/packages/gatsby-transformer-json/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-transformer-pdf.json",
         "path": "/packages/gatsby-transformer-pdf/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-transformer-react-docgen.json",
         "path": "/packages/gatsby-transformer-react-docgen/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-transformer-remark.json",
         "path": "/packages/gatsby-transformer-remark/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-transformer-screenshot.json",
-        "path": "/packages/gatsby-transformer-screenshot/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-transformer-sharp.json",
         "path": "/packages/gatsby-transformer-sharp/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-transformer-screenshot.json",
+        "path": "/packages/gatsby-transformer-screenshot/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-transformer-sqip.json",
         "path": "/packages/gatsby-transformer-sqip/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-transformer-toml.json",
         "path": "/packages/gatsby-transformer-toml/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-transformer-xml.json",
         "path": "/packages/gatsby-transformer-xml/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-transformer-yaml.json",
         "path": "/packages/gatsby-transformer-yaml/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-graphql-skip-limit.json",
         "path": "/packages/graphql-skip-limit/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-image.json",
-        "path": "/packages/gatsby-image/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby.json",
-        "path": "/packages/gatsby/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-transformer-screenshot-lambda-starter-kit.json",
         "path": "/packages/gatsby-transformer-screenshot/lambda/starter-kit/"
     },
     {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby.json",
+        "path": "/packages/gatsby/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-gatsby-image.json",
+        "path": "/packages/gatsby-image/"
+    },
+    {
+        "componentChunkName": "component---src-templates-template-docs-packages-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-gatsby-source-wordpress.json",
         "path": "/packages/gatsby-source-wordpress/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-node-helpers.json",
-        "path": "/packages/gatsby-node-helpers/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-amory-src-fs.json",
-        "path": "/packages/@amory/src-fs/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-paginate.json",
-        "path": "/packages/gatsby-paginate/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-amory-styletron.json",
-        "path": "/packages/@amory/styletron/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-amory-watch-filesystem.json",
-        "path": "/packages/@amory/watch-filesystem/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-external-links.json",
-        "path": "/packages/gatsby-remark-external-links/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-facebook-pixel.json",
-        "path": "/packages/gatsby-plugin-facebook-pixel/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-amory-style-styletron.json",
-        "path": "/packages/@amory/style-styletron/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-amory-template-helmet.json",
-        "path": "/packages/@amory/template-helmet/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-amory-template-transitions.json",
-        "path": "/packages/@amory/template-transitions/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-amory-image-lazyload.json",
-        "path": "/packages/@amory/image-lazyload/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-amory-react-pages.json",
-        "path": "/packages/@amory/react-pages/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-mailchimp.json",
-        "path": "/packages/gatsby-plugin-mailchimp/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-amory-image.json",
-        "path": "/packages/@amory/image/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-robots-txt.json",
-        "path": "/packages/gatsby-plugin-robots-txt/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-svgr.json",
-        "path": "/packages/gatsby-plugin-svgr/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-i-18-n.json",
-        "path": "/packages/gatsby-plugin-i18n/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-resolve-src.json",
-        "path": "/packages/gatsby-plugin-resolve-src/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-meta-redirect.json",
-        "path": "/packages/gatsby-plugin-meta-redirect/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-webpack-bundle-analyzer.json",
-        "path": "/packages/gatsby-plugin-webpack-bundle-analyzer/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-prismic.json",
-        "path": "/packages/gatsby-source-prismic/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-datocms.json",
-        "path": "/packages/gatsby-source-datocms/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-sentry.json",
-        "path": "/packages/gatsby-plugin-sentry/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-algolia.json",
-        "path": "/packages/gatsby-plugin-algolia/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-amory-graphql-filesystem.json",
-        "path": "/packages/@amory/graphql-filesystem/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-greenhouse.json",
-        "path": "/packages/gatsby-source-greenhouse/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-component.json",
-        "path": "/packages/gatsby-remark-component/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-ptb-gatsby-plugin-styletron.json",
-        "path": "/packages/@ptb/gatsby-plugin-styletron/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-graphcms.json",
-        "path": "/packages/gatsby-source-graphcms/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-responsive-image.json",
-        "path": "/packages/gatsby-remark-responsive-image/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-amory-schema-filesystem.json",
-        "path": "/packages/@amory/schema-filesystem/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-amory-image-sqip.json",
-        "path": "/packages/@amory/image-sqip/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-accessibilityjs.json",
-        "path": "/packages/gatsby-plugin-accessibilityjs/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-eslint.json",
-        "path": "/packages/gatsby-plugin-eslint/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-andrew-codes-gatsby-plugin-elasticlunr-search.json",
-        "path": "/packages/@andrew-codes/gatsby-plugin-elasticlunr-search/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-react-svg.json",
-        "path": "/packages/gatsby-plugin-react-svg/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-hotjar.json",
-        "path": "/packages/gatsby-plugin-hotjar/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-segment.json",
-        "path": "/packages/gatsby-plugin-segment/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-bugherd.json",
-        "path": "/packages/gatsby-plugin-bugherd/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-matomo.json",
-        "path": "/packages/gatsby-plugin-matomo/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-local-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-transformer-pdfimages.json",
-        "path": "/packages/gatsby-transformer-pdfimages/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-embed-video.json",
-        "path": "/packages/gatsby-remark-embed-video/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-emoji.json",
-        "path": "/packages/gatsby-remark-emoji/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-antd.json",
-        "path": "/packages/gatsby-plugin-antd/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-strapi.json",
-        "path": "/packages/gatsby-source-strapi/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-rss.json",
-        "path": "/packages/gatsby-source-rss/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-google-sheets.json",
-        "path": "/packages/gatsby-source-google-sheets/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-segment-js.json",
-        "path": "/packages/gatsby-plugin-segment-js/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-relative-images.json",
-        "path": "/packages/gatsby-remark-relative-images/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-styled-jsx-postcss.json",
-        "path": "/packages/gatsby-plugin-styled-jsx-postcss/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-material-ui.json",
-        "path": "/packages/gatsby-plugin-material-ui/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-embed-youtube.json",
-        "path": "/packages/gatsby-remark-embed-youtube/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-mixpanel.json",
-        "path": "/packages/gatsby-plugin-mixpanel/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-intercom-spa.json",
-        "path": "/packages/gatsby-plugin-intercom-spa/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-copy-images.json",
-        "path": "/packages/gatsby-remark-copy-images/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-yandex-metrika.json",
-        "path": "/packages/gatsby-plugin-yandex-metrika/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-amory-asset.json",
-        "path": "/packages/@amory/asset/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-amory-template-react.json",
-        "path": "/packages/@amory/template-react/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-drift.json",
-        "path": "/packages/gatsby-plugin-drift/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-guess-js.json",
-        "path": "/packages/gatsby-plugin-guess-js/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-github.json",
-        "path": "/packages/gatsby-source-github/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-graph.json",
-        "path": "/packages/gatsby-remark-graph/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-workbox.json",
-        "path": "/packages/gatsby-plugin-workbox/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-salsify.json",
-        "path": "/packages/gatsby-source-salsify/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-airtable-linked.json",
-        "path": "/packages/gatsby-source-airtable-linked/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-source-name.json",
-        "path": "/packages/gatsby-remark-source-name/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-amory-image-create.json",
-        "path": "/packages/@amory/image-create/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-lastfm.json",
-        "path": "/packages/gatsby-source-lastfm/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-vimeo.json",
-        "path": "/packages/gatsby-source-vimeo/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-transformer-orga.json",
-        "path": "/packages/gatsby-transformer-orga/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-halkeye-gatsby-source-goodreads.json",
-        "path": "/packages/@halkeye/gatsby-source-goodreads/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-mdx.json",
-        "path": "/packages/gatsby-plugin-mdx/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-shopify-storefront.json",
-        "path": "/packages/gatsby-source-shopify-storefront/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-crisp-chat.json",
-        "path": "/packages/gatsby-plugin-crisp-chat/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-workable.json",
-        "path": "/packages/gatsby-source-workable/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-vega.json",
-        "path": "/packages/gatsby-remark-vega/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-transformer-estates.json",
-        "path": "/packages/gatsby-transformer-estates/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-trustpilot.json",
-        "path": "/packages/gatsby-source-trustpilot/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-is-24.json",
-        "path": "/packages/gatsby-source-is24/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-jesses-gatsby-plugin-postcss.json",
-        "path": "/packages/@jesses/gatsby-plugin-postcss/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-ptb-gatsby-image.json",
-        "path": "/packages/@ptb/gatsby-image/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-page-load-delay.json",
-        "path": "/packages/gatsby-plugin-page-load-delay/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-cockpit.json",
-        "path": "/packages/gatsby-plugin-cockpit/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-esa.json",
-        "path": "/packages/gatsby-source-esa/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-morty.json",
-        "path": "/packages/gatsby-source-morty/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-apiserver.json",
-        "path": "/packages/gatsby-source-apiserver/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-react-native-web.json",
-        "path": "/packages/gatsby-plugin-react-native-web/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-shopify.json",
-        "path": "/packages/gatsby-source-shopify/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-twitter.json",
-        "path": "/packages/gatsby-source-twitter/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-wingsplatform-gatsby-plugin.json",
-        "path": "/packages/@wingsplatform/gatsby-plugin/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-wingscms-gatsby-plugin.json",
-        "path": "/packages/@wingscms/gatsby-plugin/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-ptb-watch-filesystem.json",
-        "path": "/packages/@ptb/watch-filesystem/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-draw.json",
-        "path": "/packages/gatsby-remark-draw/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-snipcart.json",
-        "path": "/packages/gatsby-plugin-snipcart/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-i-18-n-tags.json",
-        "path": "/packages/gatsby-plugin-i18n-tags/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-mms.json",
-        "path": "/packages/gatsby-source-mms/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-intercom.json",
-        "path": "/packages/gatsby-plugin-intercom/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-i-18-n-readnext.json",
-        "path": "/packages/gatsby-plugin-i18n-readnext/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-feed-generator.json",
-        "path": "/packages/gatsby-plugin-feed-generator/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-highlights.json",
-        "path": "/packages/gatsby-remark-highlights/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-codesandbox.json",
-        "path": "/packages/gatsby-remark-codesandbox/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-debiki-gatsby-plugin-talkyard.json",
-        "path": "/packages/@debiki/gatsby-plugin-talkyard/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-babel.json",
-        "path": "/packages/gatsby-plugin-babel/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-thirdparty.json",
-        "path": "/packages/gatsby-source-thirdparty/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-raygesualdo-gatsby-plugin-settings.json",
-        "path": "/packages/@raygesualdo/gatsby-plugin-settings/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-stripe-elements.json",
-        "path": "/packages/gatsby-plugin-stripe-elements/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-design-system.json",
-        "path": "/packages/gatsby-remark-design-system/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-widows.json",
-        "path": "/packages/gatsby-remark-widows/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-emojis.json",
-        "path": "/packages/gatsby-remark-emojis/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-airtable.json",
-        "path": "/packages/gatsby-source-airtable/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-ptb-gatsby-source-filesystem.json",
-        "path": "/packages/@ptb/gatsby-source-filesystem/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-directus.json",
-        "path": "/packages/gatsby-source-directus/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-firebase.json",
-        "path": "/packages/gatsby-source-firebase/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-netlify-cache.json",
-        "path": "/packages/gatsby-plugin-netlify-cache/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-transformer-readme.json",
-        "path": "/packages/gatsby-transformer-readme/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-s-3.json",
-        "path": "/packages/gatsby-source-s3/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-ed-comments.json",
-        "path": "/packages/gatsby-plugin-ed-comments/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-transformer-changelog.json",
-        "path": "/packages/gatsby-transformer-changelog/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-trello.json",
-        "path": "/packages/gatsby-source-trello/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-asknicely.json",
-        "path": "/packages/gatsby-source-asknicely/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-youtube.json",
-        "path": "/packages/gatsby-source-youtube/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-cockpit.json",
-        "path": "/packages/gatsby-source-cockpit/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-react-x.json",
-        "path": "/packages/gatsby-plugin-react-x/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-wyze-gatsby-plugin-google-analytics.json",
-        "path": "/packages/@wyze/gatsby-plugin-google-analytics/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-raygesualdo-gatsby-plugin-babel-styled-components.json",
-        "path": "/packages/@raygesualdo/gatsby-plugin-babel-styled-components/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-wikipedia.json",
-        "path": "/packages/gatsby-source-wikipedia/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-collections.json",
-        "path": "/packages/gatsby-plugin-collections/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-stripe-checkout.json",
-        "path": "/packages/gatsby-plugin-stripe-checkout/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-debug-build.json",
-        "path": "/packages/gatsby-plugin-debug-build/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-dribbble.json",
-        "path": "/packages/gatsby-source-dribbble/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-copy.json",
-        "path": "/packages/gatsby-plugin-copy/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-angeloashmore-gatsby-source-wordpress.json",
-        "path": "/packages/@angeloashmore/gatsby-source-wordpress/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-typegen-react-docgen.json",
-        "path": "/packages/gatsby-typegen-react-docgen/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-replace-path.json",
-        "path": "/packages/gatsby-plugin-replace-path/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-klipse.json",
-        "path": "/packages/gatsby-plugin-klipse/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-root-import.json",
-        "path": "/packages/gatsby-plugin-root-import/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-transformer-lowdb.json",
-        "path": "/packages/gatsby-transformer-lowdb/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-behance.json",
-        "path": "/packages/gatsby-source-behance/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-firestore.json",
-        "path": "/packages/gatsby-source-firestore/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-code-titles.json",
-        "path": "/packages/gatsby-remark-code-titles/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-wings.json",
-        "path": "/packages/gatsby-plugin-wings/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-rss-fork.json",
-        "path": "/packages/gatsby-source-rss-fork/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-graphql.json",
-        "path": "/packages/gatsby-source-graphql/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-jamesdanylik-gatsby-source-goodreads.json",
-        "path": "/packages/@jamesdanylik/gatsby-source-goodreads/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-tumblr.json",
-        "path": "/packages/gatsby-source-tumblr/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-pocket.json",
-        "path": "/packages/gatsby-source-pocket/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-datenguide.json",
-        "path": "/packages/gatsby-source-datenguide/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-reason.json",
-        "path": "/packages/gatsby-plugin-reason/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-fela.json",
-        "path": "/packages/gatsby-plugin-fela/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-steam.json",
-        "path": "/packages/gatsby-source-steam/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-new-blog.json",
-        "path": "/packages/gatsby-new-blog/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-pathdata.json",
-        "path": "/packages/gatsby-plugin-pathdata/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-typegen-remark-expo-autolink.json",
-        "path": "/packages/gatsby-typegen-remark-expo-autolink/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-stripe.json",
-        "path": "/packages/gatsby-source-stripe/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-prismic-field.json",
-        "path": "/packages/gatsby-source-prismic-field/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-myanimelist.json",
-        "path": "/packages/gatsby-source-myanimelist/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-figma.json",
-        "path": "/packages/gatsby-source-figma/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-a-11-y-emoji.json",
-        "path": "/packages/gatsby-remark-a11y-emoji/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-s-3-image.json",
-        "path": "/packages/gatsby-source-s3-image/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-contenta.json",
-        "path": "/packages/gatsby-source-contenta/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-annotate-codeblock.json",
-        "path": "/packages/gatsby-remark-annotate-codeblock/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-gosquared.json",
-        "path": "/packages/gatsby-plugin-gosquared/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-strava-activities.json",
-        "path": "/packages/gatsby-source-strava-activities/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-pixabay.json",
-        "path": "/packages/gatsby-source-pixabay/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-gauges.json",
-        "path": "/packages/gatsby-plugin-gauges/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-contrib-gatsby-transformer-ipynb.json",
-        "path": "/packages/@gatsby-contrib/gatsby-transformer-ipynb/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-typegen-remark-expo-embed.json",
-        "path": "/packages/gatsby-typegen-remark-expo-embed/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-tune.json",
-        "path": "/packages/gatsby-source-tune/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-npm.json",
-        "path": "/packages/gatsby-source-npm/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-embedded-codesandbox.json",
-        "path": "/packages/gatsby-remark-embedded-codesandbox/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-react-a-11-y.json",
-        "path": "/packages/gatsby-plugin-react-a11y/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-buildtime-timezone.json",
-        "path": "/packages/gatsby-plugin-buildtime-timezone/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-goodreads.json",
-        "path": "/packages/gatsby-source-goodreads/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-unsplash.json",
-        "path": "/packages/gatsby-source-unsplash/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-openapi-aggregate.json",
-        "path": "/packages/gatsby-source-openapi-aggregate/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-mesh.json",
-        "path": "/packages/gatsby-source-mesh/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-embed-appietoday.json",
-        "path": "/packages/gatsby-remark-embed-appietoday/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-twitter-own.json",
-        "path": "/packages/gatsby-source-twitter-own/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-mozaik.json",
-        "path": "/packages/gatsby-source-mozaik/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-buttercms.json",
-        "path": "/packages/gatsby-source-buttercms/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-inline-css.json",
-        "path": "/packages/gatsby-inline-css/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-mosch-gatsby-source-github.json",
-        "path": "/packages/@mosch/gatsby-source-github/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-fridge.json",
-        "path": "/packages/gatsby-source-fridge/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-sequence.json",
-        "path": "/packages/gatsby-remark-sequence/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-ptb-create-pages.json",
-        "path": "/packages/@ptb/create-pages/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-api.json",
-        "path": "/packages/gatsby-source-api/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-wrap-iframe.json",
-        "path": "/packages/gatsby-remark-wrap-iframe/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-fastclick.json",
-        "path": "/packages/gatsby-plugin-fastclick/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-baidu-tongji.json",
-        "path": "/packages/gatsby-plugin-baidu-tongji/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-template.json",
-        "path": "/packages/gatsby-plugin-template/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-direct-import.json",
-        "path": "/packages/gatsby-plugin-direct-import/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-amory-create-pages.json",
-        "path": "/packages/@amory/create-pages/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-prismic-fred.json",
-        "path": "/packages/gatsby-source-prismic-fred/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-nerv.json",
-        "path": "/packages/gatsby-plugin-nerv/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-spon-scss-postcss.json",
-        "path": "/packages/gatsby-spon-scss-postcss/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-yodorada-webservice.json",
-        "path": "/packages/gatsby-source-yodorada-webservice/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-stripe-products.json",
-        "path": "/packages/gatsby-source-stripe-products/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-sub-sup.json",
-        "path": "/packages/gatsby-remark-sub-sup/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-encrypted-block.json",
-        "path": "/packages/gatsby-remark-encrypted-block/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-emoji-unicode.json",
-        "path": "/packages/gatsby-remark-emoji-unicode/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-transformer-remark-serial-plugins.json",
-        "path": "/packages/gatsby-transformer-remark-serial-plugins/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-transform-imports.json",
-        "path": "/packages/gatsby-plugin-transform-imports/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-generic-extensions.json",
-        "path": "/packages/gatsby-remark-generic-extensions/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-gemoji-to-emoji.json",
-        "path": "/packages/gatsby-remark-gemoji-to-emoji/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-flowchart.json",
-        "path": "/packages/gatsby-remark-flowchart/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-jsxstyle.json",
-        "path": "/packages/gatsby-plugin-jsxstyle/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-i-18-n-category.json",
-        "path": "/packages/gatsby-plugin-i18n-category/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-i-18-n-categories.json",
-        "path": "/packages/gatsby-plugin-i18n-categories/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-google-sheets.json",
-        "path": "/packages/gatsby-plugin-google-sheets/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-typegen-remark-exponent-autolink.json",
-        "path": "/packages/gatsby-typegen-remark-exponent-autolink/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-transformer-code.json",
-        "path": "/packages/gatsby-transformer-code/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-transformer-yaml-netlify.json",
-        "path": "/packages/gatsby-transformer-yaml-netlify/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-behance-collection.json",
-        "path": "/packages/gatsby-source-behance-collection/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-google-remarketing.json",
-        "path": "/packages/gatsby-plugin-google-remarketing/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-oliverturner-gatsby-source-trello.json",
-        "path": "/packages/@oliverturner/gatsby-source-trello/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-smarttypo.json",
-        "path": "/packages/gatsby-remark-smarttypo/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-amazon-wishlist.json",
-        "path": "/packages/gatsby-source-amazon-wishlist/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-r-24-y-gatsby-source-filesystem.json",
-        "path": "/packages/@r24y/gatsby-source-filesystem/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-comsoc-gatsby-mdast-copy-linked-files.json",
-        "path": "/packages/@comsoc/gatsby-mdast-copy-linked-files/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-ptb-gatsby-plugin-stylus.json",
-        "path": "/packages/@ptb/gatsby-plugin-stylus/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-comsoc-gatsby-transformer-mdast.json",
-        "path": "/packages/@comsoc/gatsby-transformer-mdast/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-dekdekbaloo-gatsby-source-wordpress.json",
-        "path": "/packages/@dekdekbaloo/gatsby-source-wordpress/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-dschau-gatsby-source-github.json",
-        "path": "/packages/@dschau/gatsby-source-github/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-ausbom-gatsby-transformer-swagger.json",
-        "path": "/packages/@ausbom/gatsby-transformer-swagger/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-homerun.json",
-        "path": "/packages/gatsby-source-homerun/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-facebook.json",
-        "path": "/packages/gatsby-source-facebook/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-cosmicjs.json",
-        "path": "/packages/gatsby-source-cosmicjs/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-anilist.json",
-        "path": "/packages/gatsby-source-anilist/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-vk-pixel.json",
-        "path": "/packages/gatsby-plugin-vk-pixel/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-mdx-prismjs.json",
-        "path": "/packages/gatsby-plugin-mdx-prismjs/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-esca-css.json",
-        "path": "/packages/gatsby-plugin-esca-css/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-kennethormandy-gatsby-source-wordpress.json",
-        "path": "/packages/@kennethormandy/gatsby-source-wordpress/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-amory-src-fs-watch.json",
-        "path": "/packages/@amory/src-fs-watch/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-amory-react-helmet.json",
-        "path": "/packages/@amory/react-helmet/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-amory-favicon.json",
-        "path": "/packages/@amory/favicon/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-buildtime-timezone.json",
-        "path": "/packages/gatsby-buildtime-timezone/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-parser-json.json",
-        "path": "/packages/gatsby-parser-json/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-parser-remark.json",
-        "path": "/packages/gatsby-parser-remark/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-parser-markdown.json",
-        "path": "/packages/gatsby-parser-markdown/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-parser-sharp.json",
-        "path": "/packages/gatsby-parser-sharp/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-parser-yaml.json",
-        "path": "/packages/gatsby-parser-yaml/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-typegen-remark-autolink-headers.json",
-        "path": "/packages/gatsby-typegen-remark-autolink-headers/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-typegen-remark-copy-linked-files.json",
-        "path": "/packages/gatsby-typegen-remark-copy-linked-files/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-typegen-remark-responsive-image.json",
-        "path": "/packages/gatsby-typegen-remark-responsive-image/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-typegen-remark-prismjs.json",
-        "path": "/packages/gatsby-typegen-remark-prismjs/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-typegen-remark-responsive-iframe.json",
-        "path": "/packages/gatsby-typegen-remark-responsive-iframe/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-typegen-remark-smartypants.json",
-        "path": "/packages/gatsby-typegen-remark-smartypants/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-typegen-remark.json",
-        "path": "/packages/gatsby-typegen-remark/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-typegen-sharp.json",
-        "path": "/packages/gatsby-typegen-sharp/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-cockpit-headless-cms.json",
-        "path": "/packages/gatsby-source-cockpit-headless-cms/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-typegen-filesystem.json",
-        "path": "/packages/gatsby-typegen-filesystem/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-netlify-headers.json",
-        "path": "/packages/gatsby-plugin-netlify-headers/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-remark-flowchat.json",
-        "path": "/packages/gatsby-remark-flowchat/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-plugin-goodreads.json",
-        "path": "/packages/gatsby-plugin-goodreads/"
-    },
-    {
-        "componentChunkName": "component---src-templates-template-docs-remote-packages-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-gatsby-source-shopfiy.json",
-        "path": "/packages/gatsby-source-shopfiy/"
     },
     {
         "componentChunkName": "component---src-pages-404-js",
@@ -3813,13 +1111,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "blog.json",
         "path": "/blog/"
-    },
-    {
-        "componentChunkName": "component---src-pages-blog-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-tags.json",
-        "path": "/blog/tags/"
     },
     {
         "componentChunkName": "component---src-pages-colors-js",
@@ -3878,11 +1169,11 @@
         "path": "/"
     },
     {
-        "componentChunkName": "component---src-pages-plugins-js",
+        "componentChunkName": "component---src-pages-tutorial-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "plugins.json",
-        "path": "/plugins/"
+        "jsonName": "tutorial.json",
+        "path": "/tutorial/"
     },
     {
         "componentChunkName": "component---src-pages-404-js",
